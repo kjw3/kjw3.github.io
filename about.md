@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Who We Are
 
-KJW3, LLC is a premier technology consulting firm specializing in Cloud and Artificial Intelligence solutions. With headquarters in Silicon Valley and offices across the globe, we are a team of innovators, problem-solvers, and tech enthusiasts dedicated to helping businesses realize their full potential.
+KJW3, LLC is a premier technology consulting firm specializing in Cloud and Artificial Intelligence solutions. With headquarters in , we are a team of innovators, problem-solvers, and tech enthusiasts dedicated to helping businesses realize their full potential.
 
 ## Our Mission
 
