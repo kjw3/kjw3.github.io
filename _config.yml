@@ -1,14 +1,10 @@
 # Site settings
-title: KJW3, LLC - Cloud Consulting
-email: kevin@kjw3.com
+title: KJW3, LLC - Technology Consulting
+email: info@kjw3.llc
 description: > # this means to ignore newlines until "baseurl:"
-  Cloud computing is not new. However, that doesn't make it easier to adopt.
-  Let us help your business determine the proper use cases for cloud computing.
-  Run by a certified Amazon Web Services Solution Architect and an OpenStack
-  advocate, we will make your cloud migration a success.
+  Technology consulting in a world of clouds and artificial intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kjw3.com" # the base hostname & protocol for your site
-twitter_username: kjwthree
+url: "http://www.kjw3.llc" # the base hostname & protocol for your site
 github_username:  kjw3
 
 # Build settings
